@@ -6,8 +6,8 @@
 // structure for the polynomial
 struct expression
 {
-    int coefficient;
-    int power;
+    float coefficient;
+    float power;
 };
 
 struct polynomial
